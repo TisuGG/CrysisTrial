@@ -1,0 +1,9 @@
+name: CrysisTrial
+version: 1.0
+main: tissuegg.crysistrial.CrysisTrial
+api-version: 1.17
+
+commands:
+  crysis:
+    description: Comandos a pedido de Crysis Studio
+    usage: /crysis <warnlist, uhcstart, tppos, freeze, blockbreakeventcancel, autosmelt>
